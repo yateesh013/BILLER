@@ -11,3 +11,5 @@ save-->save the bill db
 delete --> delete the entire bill from db.
 
 calc---> calculate the total day collections from db
+
+you can download the folder into your system and run the exe file on your system 
